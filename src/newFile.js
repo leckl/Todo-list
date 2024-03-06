@@ -1,0 +1,5 @@
+methods: {
+addCount(); {
+this.count++;
+}
+}
